@@ -1,0 +1,9 @@
+# Full set, for regenerating the portrait locally.
+# The daily workflow installs only requests + beautifulsoup4.
+requests
+beautifulsoup4
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
