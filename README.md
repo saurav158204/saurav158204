@@ -173,7 +173,6 @@ enough that an ordinary person can actually depend on them.
 
 - Mechanical engineering taught me systems thinking; software is where I apply it
 - I'd rather ship a small thing that works than demo a big thing that doesn't
-- Always up for a hackathon, a CTF, or an argument about retrieval quality
 - Currently obsessed with making LLM apps behave predictably enough to trust
 
 ---
